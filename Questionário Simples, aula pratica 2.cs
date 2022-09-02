@@ -6,7 +6,7 @@ namespace hideki.aula.definir
     {
         static void Main(string[] args)
         {
-            /*
+           
             //                 Variaveis
             string nome, telefone, email;
 
@@ -43,4 +43,9 @@ namespace hideki.aula.definir
             Console.Clear();
 
             Console.ReadKey();
-            //                                          Fim projeto 
+            //                                        Fim projeto 
+
+
+        }
+    }
+}
